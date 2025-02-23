@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "apiEndpoint": "https://inventorymanagementapiappapimgmt.azure-api.net/inventory",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/InventoryManagementApiAppapimgmt/apis/InventoryManagementApiApp",
+      "type": "apis.azure"
+    }
+  }
+}

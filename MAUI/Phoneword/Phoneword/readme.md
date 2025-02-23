@@ -1,0 +1,1 @@
+Trining found here: https://learn.microsoft.com/en-us/training/modules/build-mobile-and-desktop-apps/

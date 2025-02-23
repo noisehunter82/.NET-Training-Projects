@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "ms-dotnettools.csdevkit",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}

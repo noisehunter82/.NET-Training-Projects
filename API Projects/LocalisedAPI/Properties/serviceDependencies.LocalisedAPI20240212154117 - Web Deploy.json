@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "apiEndpoint": "https://mytestapimanager2.azure-api.net/greeting",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/MyTestAPIManager2/apis/LocalisedAPI",
+      "type": "apis.azure"
+    }
+  }
+}

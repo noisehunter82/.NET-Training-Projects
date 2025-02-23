@@ -1,0 +1,6 @@
+@LocalisedAPI_HostAddress = http://localhost:5221
+
+GET {{LocalisedAPI_HostAddress}}/NA/greeting
+Accept: application/json
+
+###
