@@ -1,0 +1,15 @@
+@API1_HostAddress = http://localhost:5081
+
+GET {{API1_HostAddress}}/
+Accept: application/json
+
+###
+
+POST {{API1_HostAddress}}/process-payment
+Content-Type: application/json
+{ "amount": 100.0,
+  "currency": "USD",
+  "cardNumber": "4111111111111111"
+}
+
+###
